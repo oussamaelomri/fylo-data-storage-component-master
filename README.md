@@ -21,7 +21,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 ### Links
 
 - Solution URL: [Github](https://github.com/oussamaelomri/fylo-data-storage-component-master)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live](https://oussamaelomri.github.io/fylo-data-storage-component-master/)
 
 ## My process
 
